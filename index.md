@@ -8,6 +8,7 @@ An experienced Cloud/QA Automation Engineer with diverse engineering background 
 ## Work
 
 **Amazon**
+
 Cloud/QA automation Engineer (Amazon Alexa)
 Responsibilities
 •	Automate Alexa music testing to proactively identify issues playing new release. 
@@ -19,10 +20,12 @@ Responsibilities
 
 ## Education
 **MSc Communication engineering**
+
 National Chiao Tung University, Taiwan
 •	Thesis: Preserving Privacy for Community Location-Based Mobile Cloud Applications Using Homomorphic Encryption.
 
 **BSc Electronics and Telecommunications engineering**
+
 University of Moratuwa, Sri lanka
 
 
