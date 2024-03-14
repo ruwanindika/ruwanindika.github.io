@@ -7,6 +7,11 @@ An experienced Cloud/QA Automation Engineer with diverse engineering background 
 
 ## Work
 
+**DEvOps1**
+
+***Senior Automation Engineer***
+
+
 **Amazon**
 
 ***Cloud/QA automation Engineer (Amazon Alexa)***
