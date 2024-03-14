@@ -36,5 +36,10 @@ National Chiao Tung University, Taiwan
 University of Moratuwa, Sri lanka
 
 
+## Web links
+
+blog - [https://ruwanindikaprasanna.blogspot.com/](https://ruwanindikaprasanna.blogspot.com/)
+LinkIn - [https://www.linkedin.com/in/ruwanindikaprasanna/](https://www.linkedin.com/in/ruwanindikaprasanna/)
+
 
 
