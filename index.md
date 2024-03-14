@@ -7,7 +7,7 @@ An experienced Cloud/QA Automation Engineer with diverse engineering background 
 
 ## Work
 
-**DEvOps1**
+**DevOps1**
 
 ***Senior Automation Engineer***
 
@@ -41,6 +41,8 @@ University of Moratuwa, Sri lanka
 blog - [https://ruwanindikaprasanna.blogspot.com/](https://ruwanindikaprasanna.blogspot.com/){:target="_blank"} 
 
 LinkIn - [https://www.linkedin.com/in/ruwanindikaprasanna/](https://www.linkedin.com/in/ruwanindikaprasanna/){:target="_blank"} 
+
+youtube - [https://www.youtube.com/c/RuwanIndikaPrasanna](https://www.youtube.com/c/RuwanIndikaPrasanna){:target="_blank"}
 
 
 
